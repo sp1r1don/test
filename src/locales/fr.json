@@ -1,0 +1,11 @@
+{
+  "homepage": {
+    "welcomeTitle": "Ravi de vous voir!"
+  },
+  "counter": {
+    "label": "Comptage actuel",
+    "plus": "plus",
+    "minus":"moins",
+    "reset": "réinitialiser"
+  }
+}

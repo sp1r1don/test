@@ -1,0 +1,11 @@
+{
+  "homepage": {
+    "welcomeTitle": "Nice to see you!"
+  },
+  "counter": {
+    "label": "Current count",
+    "plus": "plus",
+    "minus":"minus",
+    "reset": "reset"
+  }
+}
